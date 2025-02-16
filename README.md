@@ -27,6 +27,6 @@ This is my personal portfolio website, which I **deployed on AWS** using **S3, C
 ## 🔍 How to View Locally  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/my-portfolio.git
+   git clone https://github.com/pritibhosale20/aws-s3-portfolio-website.git
 
 2. Open index.html in a browser   
